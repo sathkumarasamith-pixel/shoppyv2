@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059569518756",
+    "project_id": "shoppy-f6f81",
+    "storage_bucket": "shoppy-f6f81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059569518756:android:6d71442ee3493ca19c7e31",
+        "android_client_info": {
+          "package_name": "com.example.shoppy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeJDSoEGUj066EDXXIcy2JulX1LuaFrYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
